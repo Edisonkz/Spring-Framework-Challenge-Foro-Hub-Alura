@@ -36,7 +36,7 @@
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/ForoHub.git
+    git clone https://github.com/Edisonkz/Spring-Framework-Challenge-Foro-Hub-Alura.git
     cd ForoHub
     ```
 
